@@ -14,7 +14,7 @@
 			<br />
 			<h2 align="center">CLASS Crud Operations</h2><br />
 			<div align="right">
-				<a href="../"><button type="button" name="add" id="add" class="btn btn-success">BACK</button></a>
+				<a href="../"><button type="button" class="btn btn-success">BACK</button></a>
 			</div>
 			<br />
 			<div id="result"></div>
