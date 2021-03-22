@@ -126,7 +126,7 @@ $(document).ready(function(){
 
 			var action = $('#action').val();
 			$.ajax({
-				url:"ac.php",
+				url:"action.php",
 				method:"POST",
 				data:form_data,
 				success:function(data)
