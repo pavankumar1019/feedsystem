@@ -1,16 +1,11 @@
 <?php
-
 include('admin/database_connection.php');
-
 $sql = "SELECT * FROM `staff` WHERE class_id=1 AND id NOT IN(SELECT staff_id FROM feeds where stud_id=1)";
 $result = $con->query($sql);
 $sqlq = "SELECT * FROM `questions`";
 $resultq = $con->query($sqlq);
 ?>
-
-<!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -212,7 +207,5 @@ $resultq = $con->query($sqlq);
 
   
     </script>
-
 </body>
-
 </html>
