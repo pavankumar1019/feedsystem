@@ -1,0 +1,340 @@
+<div class="container  p-3" id="c2" style="display:none;">
+      <!-- <div class="h-100 d-flex justify-content-center align-items-center"> -->
+      <div class="d-flex justify-content-center align-items-center" id="auth_name1" style="display:none;">
+        <h4 style="color:#2D2926FF;">Answer the Questions.!</h4>
+      </div>
+      <div class="h-100">
+        <form action="#" id="auth_form1" style="display:none;">
+          <!-- <div class="d-grid gap-2 col-sm-12 col-lg-6 mx-auto pt-5">
+<h6>Select the staff..</h6>
+</div> -->
+<!-- question 1 -->
+          <div class="d-grid gap-2 col-sm-12 col-lg-12 mx-auto pt-3">
+            <p>1. Teacher Teachning</p>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions1" id="inlineRadio1" value="option1">
+            <label class="form-check-label" for="inlineRadio1">1</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions1" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">2</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions1" id="inlineRadio1" value="option1">
+            <label class="form-check-label" for="inlineRadio1">3</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions1" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">4</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions1" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">5</label>
+          </div>
+<!-- question 2 -->
+
+          <div class="d-grid gap-2 col-sm-12 col-lg-12 mx-auto ">
+            <p>2. Teacher Teachning</p>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions2" id="inlineRadio1" value="option1">
+            <label class="form-check-label" for="inlineRadio1">1</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions2" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">2</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions2" id="inlineRadio1" value="option1">
+            <label class="form-check-label" for="inlineRadio1">3</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions2" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">4</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions2" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">5</label>
+          </div>
+                   <!-- question 3 -->
+          <div class="d-grid gap-2 col-sm-12 col-lg-12 mx-auto ">
+            <p>3. Teacher Teachning</p>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions3" id="inlineRadio1" value="option1">
+            <label class="form-check-label" for="inlineRadio1">1</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions3" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">2</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions3" id="inlineRadio1" value="option1">
+            <label class="form-check-label" for="inlineRadio1">3</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions3" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">4</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions3" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">5</label>
+          </div>
+
+          <!-- question 4 -->
+          <div class="d-grid gap-2 col-sm-12 col-lg-12 mx-auto">
+            <p>4. Teacher Teachning</p>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions4" id="inlineRadio1" value="option1">
+            <label class="form-check-label" for="inlineRadio1">1</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions4" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">2</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions4" id="inlineRadio1" value="option1">
+            <label class="form-check-label" for="inlineRadio1">3</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions4" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">4</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions4" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">5</label>
+          </div>
+
+          <!-- question 5 -->
+          <div class="d-grid gap-2 col-sm-12 col-lg-12 mx-auto ">
+            <p>5. Teacher Teachning</p>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions5" id="inlineRadio1" value="option1">
+            <label class="form-check-label" for="inlineRadio1">1</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions5" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">2</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions5" id="inlineRadio1" value="option1">
+            <label class="form-check-label" for="inlineRadio1">3</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions5" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">4</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="inlineRadioOptions5" id="inlineRadio2" value="option2">
+            <label class="form-check-label" for="inlineRadio2">5</label>
+          </div>
+          <div class="form-group">
+            <label for="exampleFormControlTextarea1">Custom Feedback</label>
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+          </div>
+          <div class="d-grid gap-2 col-sm-12 col-lg-6 mx-auto pt-3">
+            <input class="btn btn-outline-primary" type="submit" id="submit" placeholder="Submit">
+          </div>
+        </form>
+      </div>
+
+
+
+
+    </div>
+
+
+
+
+
+
+// Fetch an associative array
+// array to hold all tasks
+$tasks = array();
+// Also, consider sticking with the procedural method since that's what you use elsewhere
+while ($tasks_displayed = $tasks_result->fetch_assoc()) {
+// procedural alternate:
+// while ($tasks_displayed = mysqli_fetch_assoc($tasks_result)) {
+  // Append the task onto your array
+  $tasks[] = $tasks_displayed['taskname'];
+}
+// Following the loop you now have an array of tasks.
+// you can use a for loop to display them:
+$tasklength = count($tasks);
+for ($i = 0; $i < $tasks; $i++) {
+  // Populate your variables...
+  ${'line'.($i+1)} = $tasks[$i];
+
+
+
+rating
+https://phppot.com/php/php-star-rating-system-with-javascript/#:~:text=This%20code%20is%20used%20to,rating%20with%20the%20highlighted%20stars.
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_star_rating
+
+
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col">1</div>
+        <div class="col">2</div>
+        <div class="col">3</div>
+        <div class="col">4</div>
+        <div class="col">5</div>
+    </div>
+</div>
+
+
+<?php
+include('../admin/database_connection.php');
+
+$sql = "SELECT * FROM feeds";
+$result = $con->query($sql);
+$programming_languages = '';
+$tasks = array();
+// fetch feeds start
+if ($result->num_rows > 0) {
+// fetch feeds record
+  while($row = $result->fetch_assoc()) {
+    $programming_languages .=  '<div class="alert alert-info alert-dismissible fade show" role="alert">
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>';
+  // expload array fields in db
+ $language_array = explode(",",$row["answer"]);
+ $questions_array = explode(",",$row["quest_id"]);
+$studid=$row['stud_id'];
+$staffid=$row['staff_id'];
+
+// select student with id 
+ $sqls = "SELECT * FROM student_info where id=$studid";
+$results = $con->query($sqls);
+if ($results->num_rows > 0) {
+
+// start1
+  while($rows = $results->fetch_assoc()) {
+    $sqlq = "SELECT * FROM staff where id=$staffid";
+    $resultq = $con->query($sqlq);
+if ($resultq->num_rows > 0) {
+  while($rowq = $resultq->fetch_assoc() ) {
+ 
+    $programming_languages .=  '<strong>'.$rows['reg_no'].'&nbsp;&nbsp;</strong>Has given Feed Back to the Staff <strong>&nbsp;&nbsp;'.$rowq['name'].'</strong>-[Subject:-'.$rowq['sub'].']<br>';
+    $programming_languages .=  '
+    <div class="container-fluid">
+        <div class="row">';
+// get each iteams in feeds data 
+    $i=0;
+       foreach($language_array as $language)
+       {
+   $programming_languages .= '<div class="col">Q('.$questions_array[$i].')'.$language;
+   $programming_languages .= '<ul>';
+   for ($count = 1; $count <= 5; $count ++) {
+    
+    if ($count <= $language) {
+        
+        $programming_languages .= '<li><span class="fa fa-star checked"></span></li>';
+    } else {
+        $programming_languages .= '<li ><span class="fa fa-star"></span></li>';
+    }
+
+}
+   $i++;
+   $programming_languages .= '</ul></div>';
+       }
+       $programming_languages .=  '
+       <strong>'.$row['comment'].'&nbsp;&nbsp;</strong>
+       </div>
+</div>';
+  }
+}
+  // end1
+
+  }
+
+} 
+else {
+}
+$programming_languages .=  '</div>';
+// select student with id close
+}
+} 
+
+else {
+ 
+}
+// fetch feeds end
+$output = array(
+  'programming_languages'	=>	$programming_languages
+);
+
+
+// echo json_encode($output);
+echo $programming_languages;
+// $con->close();
+
+?>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.css">
+  <style>
+.checked {
+  color: orange;
+}
+ul li {
+  display:inline;
+}
+</style>
+</head>
+<body  style="background-color:#2D2926FF;">
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?php
+
+if(isset($_POST['sub_it'])){
+  print_r($_POST);
+  echo implode(".",$_POST['ha']);
+}
+?>
+
+<form method="post">
+<input type="date" name="date[]" />
+<input type="text" name="versus[]" />
+<input type="radio" name="ha[0]" value="home" checked="checked" />
+<input type="radio" name="ha[0]" value="away" />
+<br />
+<input type="date" name="date[]" />
+<input type="text" name="versus[]" />
+<input type="radio" name="ha[1]" value="home" checked="checked" />
+<input type="radio" name="ha[1]" value="away" />
+<br />
+<input type="date" name="date[]" />
+<input type="text" name="versus[]" />
+<input type="radio" name="ha[2]"  value="home" checked="checked" />
+<input type="radio" name="ha[2]" value="away" />
+<input type="submit" value="go" name="sub_it" />
+</form>
