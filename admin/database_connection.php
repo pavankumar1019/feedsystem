@@ -1,14 +1,14 @@
 <?php
-$connect = new PDO("mysql:host=localhost;dbname=feedback", "root", "");
+$connect = new PDO("mysql:host=localhost;dbname=u815129216_sbmjc", "u815129216_sbmjc", "4Vr91wEt/");
 
 ?>
 <?php
 	
 	// Database configuration 
 	$dbHost     = "localhost"; 
-	$dbUsername = "root"; 
-	$dbPassword = ""; 
-	$dbName     = "feedback"; 
+	$dbUsername = "u815129216_sbmjc"; 
+	$dbPassword = "4Vr91wEt/"; 
+	$dbName     = "u815129216_sbmjc"; 
 	 
 	// Create database connection 
 	$con = mysqli_connect($dbHost, $dbUsername, $dbPassword, $dbName); 
