@@ -35,7 +35,7 @@
   <div class="container-fluid p-3" id="c1" style="display:none;">
     <!-- <div class="h-100 d-flex justify-content-center align-items-center"> -->
     <div class="d-flex justify-content-center align-items-center" id="auth_name" style="display:none;">
-      <h2 style="color:wheat;">Hi! Pavan</h2>
+      <h2 style="color:wheat;">Hi! Admin</h2>
     </div>
     <div class="h-100" id="auth_form" style="display: none;">
         <div class="card text-center">
